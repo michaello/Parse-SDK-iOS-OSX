@@ -114,7 +114,7 @@ Pod::Spec.new do |s|
 
     s.dependency 'Parse/Core'
     s.dependency 'Bolts', '~> 1.9'
-    s.dependency 'FBSDKLoginKit', '~> 4.33'
+    s.dependency 'FBSDKLoginKit', '~> 4.28'
   end
 
   s.subspec 'FacebookUtils-tvOS' do |s|
